@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="str_login">Login</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_password">Enter password</string>
+    <string name="str_login_label">Login</string>
+    <string name="str_logout_label">Logout</string>
+    <string name="str_email_not_empty">Email không được để trống</string>
+    <string name="str_password_not_empty">Mật khẩu không được để trống</string>
+    <string name="str_email_not_true_format">Email không đúng định dạng</string>
+</resources>
